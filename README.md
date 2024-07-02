@@ -1,17 +1,20 @@
 # Insurance-Policy-Sytsem
-Project Overview
+#Project Overview
+
 This Spring Boot application is designed to manage customers and their insurance policies using JPA and MySQL.
 It includes functionalities for customer registration, policy management, and interactions between customers and insurance policy providers.
 The system allows customers to create, update, renew, and claim policies, while insurance providers can manage policy availability and expiration. 
 Additionally, the project features endpoints for searching and updating customer details, as well as checking policy status and eligibility.
 
-Tech Stack
+#Tech Stack
+
 Backend: Spring Boot, Spring Data JPA
 Database: MySQL
 Security: Spring Security
 Testing: JUnit, Mockito
 
-Key Features
+#Key Features
+
 Customer Management: Register, update, and manage customer details.
 Policy Management: Create, update, renew, and claim policies.
 Search Functionality: Search for customers and policies by various attributes.
