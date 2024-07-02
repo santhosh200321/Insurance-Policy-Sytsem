@@ -8,10 +8,10 @@ Additionally, the project features endpoints for searching and updating customer
 
 #Tech Stack
 
-Backend: Spring Boot, Spring Data JPA
-Database: MySQL
-Security: Spring Security
-Testing: JUnit, Mockito
+-Backend: Spring Boot, Spring Data JPA
+-Database: MySQL
+-Security: Spring Security
+-Testing: JUnit, Mockito
 
 #Key Features
 
