@@ -7,10 +7,12 @@ The system allows customers to create, update, renew, and claim policies, while 
 Additionally, the project features endpoints for searching and updating customer details, as well as checking policy status and eligibility.
 
 #Tech Stack
-
 -Backend: Spring Boot, Spring Data JPA
+
 -Database: MySQL
+
 -Security: Spring Security
+
 -Testing: JUnit, Mockito
 
 #Key Features
